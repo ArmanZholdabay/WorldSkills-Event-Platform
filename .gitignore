@@ -1,0 +1,32 @@
+# Laravel
+laravel12/.env
+laravel12/.env.backup
+laravel12/.env.production
+laravel12/vendor/
+laravel12/node_modules/
+laravel12/storage/*.key
+laravel12/.phpunit.cache
+laravel12/.phpunit.result.cache
+laravel12/public/build
+laravel12/public/hot
+laravel12/public/storage
+laravel12/storage/pail
+
+# IDE
+.idea/
+.vscode/
+.fleet/
+.zed/
+.nova/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+laravel12/storage/logs/*.log
+
+# Database dumps (optional - uncomment if you don't want to commit)
+# files/database/*.sql
+
